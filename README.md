@@ -18,10 +18,10 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**  
-`C` `C#` `Java` `Python` `PHP` `Dart` `SQL`
+`C` `C#` `Java` `Python` `PHP` `Dart` `SQL` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
-**Mobile & Frontend:**  
-`Flutter` `BLoC Pattern` `Firebase`
+**Web & Mobile Development:**  
+`React` `Flutter` `BLoC Pattern` `Firebase`
 
 **AI, Vision & Embedded Systems:**  
 `YOLOv8` `PyTorch` `Google Colab` `Raspberry Pi 5`
@@ -31,15 +31,19 @@
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects & Internship Work
 
-#### 🌾 Greenhouse AI & Mobile System
-- Real-time plant disease recognition model trained with **YOLOv8** on Google Colab.
-- Integrated with a **Flutter** mobile application using **Firebase Cloud Messaging (FCM)** for instant alert notifications.
-- Interfaced with a rail-mounted camera setup.
+#### 🌾 Greenhouse AI & Mobile System (Internship Project)
+- Developed an end-to-end smart agriculture solution using **YOLOv8** for real-time plant disease detection.
+- Integrated with a **Flutter** mobile application featuring **Firebase Cloud Messaging (FCM)** for instant notifications.
+- Interfaced with a rail-mounted camera setup for automated visual analysis.
+
+#### 🌐 Enterprise Web Application (Internship Project)
+- Developing a modern, responsive web application using **React** and **TypeScript**.
+- Implementing modular component architecture, clean UI practices, and state management.
 
 #### 📊 Personal Finance Tracker
-- Personal expense management app built using **Flutter** and a **Python** backend.
+- Developing a personal expense management application using **Flutter** and a **Python** backend.
 - Features expense analytics, budget categorization, and financial anomaly detection.
 
 ---
