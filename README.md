@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently building a **Personal Finance Tracker** app with Flutter & Python.
-- 🌿 Developed a **Greenhouse AI & Mobile App** using YOLOv8 plant disease detection, Flutter,Python and FCM.
+- 🌿 Developed a **Greenhouse AI & Mobile App** using YOLOv8 plant disease detection, Flutter, Python and FCM.
 - ⚡ Deeply focused on clean architecture (**BLoC pattern** in Flutter) and solid backend logic.
 - 🎯 Passionate about bridging hardware, AI, and mobile solutions into unified systems.
 
