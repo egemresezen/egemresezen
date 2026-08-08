@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Ege Emre Sezen 👋
 
-<!--
-**egemresezen/egemresezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** @ Dumlupınar University  
+💻 Specializing in **Backend Development**, **Mobile Applications (Flutter)**, and **Computer Vision (YOLOv8)**.  
+🛠️ Interested in **Embedded Systems (Raspberry Pi)** ve **Game Development (Unity)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 Currently building a **Personal Finance Tracker** app with Flutter & Python.
+- 🌿 Developed a **Greenhouse AI & Mobile App** using YOLOv8 plant disease detection, Flutter, and FCM.
+- ⚡ Deeply focused on clean architecture (**BLoC pattern** in Flutter) and solid backend logic.
+- 🎯 Passionate about bridging hardware, AI, and mobile solutions into unified systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**  
+`C` `C#` `Java` `Python` `PHP` `Dart` `SQL`
+
+**Mobile & Frontend:**  
+`Flutter` `BLoC Pattern` `Firebase`
+
+**AI, Vision & Embedded Systems:**  
+`YOLOv8` `PyTorch` `Google Colab` `Raspberry Pi 5`
+
+**Tools & Environment:**  
+`Git` `GitHub` `Android Studio` `Unity (2D/3D)` `Linux` `VS Code`
+
+---
+
+### 📌 Projects
+
+#### 🌾 Greenhouse AI & Mobile System
+- Real-time plant disease recognition model trained with **YOLOv8** on Google Colab.
+- Integrated with a **Flutter** mobile application using **Firebase Cloud Messaging (FCM)** for instant alert notifications.
+- Interfaced with a rail-mounted camera setup.
+
+#### 📊 Personal Finance Tracker
+- Personal expense management app built using **Flutter** and a **Python** backend.
+- Features expense analytics, budget categorization, and financial anomaly detection.
+
+---
