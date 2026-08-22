@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student** @ Dumlupınar University  
 💻 Specializing in **Backend Development**, **Mobile Applications (Flutter)**, and **Computer Vision (YOLOv8)**.  
-🛠️ Interested in **Embedded Systems (Raspberry Pi)** ve **Game Development (Unity)**.
+🛠️ Interested in **Embedded Systems (Raspberry Pi)** and **Game Development (Unity)**.
 
 ---
 
